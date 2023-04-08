@@ -1,6 +1,6 @@
 # `Curved Bottom Tab Bar` 
 
-![image](https://github.com/alperbayram/react-native-curved-bottom-bar/tree/main/assets/test.png)
+![image](https://raw.githubusercontent.com/alperbayram/react-native-curved-bottom-bar/main/assets/test.png?token=GHSAT0AAAAAABZ6P726CSX4F35Y7CLSPVOOZBR5CEA)
 
 <p>
   <!-- iOS -->
