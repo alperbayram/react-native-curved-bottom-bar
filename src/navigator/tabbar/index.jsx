@@ -14,8 +14,6 @@ export const BottomTabNavigator = () => {
   const returnpathDown = getPathDown(maxWidth, 60, 50);
   return (
     <Tab.Navigator
-      initialRouteName="tabNetwork"
-      bgColor="white"
       screenOptions={{
         tabBarStyle: {
           backgroundColor: "transparent",
